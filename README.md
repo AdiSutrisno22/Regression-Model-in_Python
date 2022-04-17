@@ -1,5 +1,5 @@
 # Regression Model in Python
-## Boston Housing Data
+## Boston Housing Data Study Case
 
 Project Description
 - Import package 
